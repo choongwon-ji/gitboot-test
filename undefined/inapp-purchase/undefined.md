@@ -6,7 +6,7 @@
 
 상품을 등록하면 애플리케이션 ID(AID)가 발급됩니다. ****&#x20;
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -19,7 +19,7 @@
 * 정산 정보 : 개발자센터 > 회원정보 관리 > 회원정보의 정산정보 탭 클릭
 * 사업자 회원은 정산정보를 등록하신 후 운영자의 승인을 받아야 합니다.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -38,7 +38,7 @@
 * In-App 상품가격 : 인앱상품의 판매 가격을 입력합니다. 부가세를 포함한 금액을 입력하시면 됩니다.
 * 모든 입력이 완료되었으면 하단의 '저장' 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **관리형 상품 일괄 등록하기** <a href="#id-02." id="id-02."></a>
 
@@ -89,7 +89,7 @@
     결제 수단에 문제가 발생하는 경우 결제 유예기간을 설정하지 않아도 구독이 바로 해지되지 않습니다. 사용자의 계정은 보류 상태가 되고, 보류 상태에서 결제문제를 해결하면 다시 정기 결제가 이루어집니다.  &#x20;
 * 모든 입력이 완료되었으면 하단의 '저장' 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -99,7 +99,7 @@
 * 해당 메뉴에서 일시중지 및 구독 별 무료 이용 사용 여부를 설정할 수 있습니다.&#x20;
 * 일시중지 및 구독 별 무료 이용은 구독 상품 전체에 적용됩니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ****
 
@@ -107,13 +107,13 @@
 
 원스토어 개발자센터 > Apps > In-App정보 > 'In-App API 관리' 버튼을 클릭하면 라이선스 키와 서버 API를 위한 OAuth 인증 정보를 확인할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 라이선스 키 : 원스토어가 전달한 인앱결제 내역의 위변조 여부를 확인하는 용도로 사용합니다.
 *   OAuth 인증 정보 : 원스토어 서버 API를 사용하기 위한 인증 용도로 사용합니다.\
 
 
-    <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 
 
